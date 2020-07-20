@@ -1,0 +1,66 @@
+#Python Batch 6 - Assignment 1
+
+1. What is python ? What are the ways to install python in your PC ?
+
+
+Python
+
+
+
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. It created by Guido Van Rossum and first released in 1991
+
+Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
+
+Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
+
+Python supports modules and packages, which encourages program modularity and code reuse.
+
+The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+
+
+
+
+Ways to Install Python
+
+
+
+1. Python Installer
+From its official website you can download python version which is required for you.
+
+https://www.python.org
+
+2. Anaconda
+
+https://www.anaconda.com/products/individual
+
+3. Pycharm
+
+https://www.jetbrains.com/pycharm
+
+
+
+
+
+
+
+2.What are code environments? Types?
+
+Code Environment
+
+It is a place where we write the code and compile and see the output.
+
+
+Types
+
+
+1. Text Editors
+
+Eg: Notepad,Visual studio code
+
+2. Integrated Development Environment(IDE)
+
+Eg: Pycharm and Spyder
+
+3. Notebook Environment
+
+Eg: Jupyter
